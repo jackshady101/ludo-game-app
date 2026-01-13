@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jstuner.ludo",
+    "sha256_cert_fingerprints":
+    ["97:6C:23:7E:BF:08:B3:64:76:46:30:F2:6D:47:F0:F3:FD:DE:CE:48:0F:D4:12:25:13:99:8A:63:D9:22:3C:D4"]
+  }
+}]
